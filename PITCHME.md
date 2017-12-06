@@ -39,7 +39,7 @@
 - [Популярные раскладки на гридах](https://medium.com/samsung-internet-dev/common-responsive-layouts-with-css-grid-and-some-without-245a862f48df) |
 - [Так ли хорошо вы знаете HTML5 формы](http://www.wdrfree.com/172/form-in-html5-definitely-guide-examples) | 
 
----?image=src/fonts.png
+---?image=img/fonts.png
 ---
 ##### Шрифты
 - Гуру шрифтов [научит грузить их правильно](https://www.zachleat.com/web/23-minutes/) за 23 минуты
