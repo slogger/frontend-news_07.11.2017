@@ -1,6 +1,5 @@
 # Frontend Digest
-##### v17.7.12
-
+##### v17.12.7
 
 ---?image=img/tools.jpg&size=cover
 ## Инструменты
@@ -19,7 +18,7 @@
 - [WTF, HTML and CSS?](http://wtfhtmlcss.com/) | 
 - [Рассказ почему дефолтные экспорты зло](https://blog.neufund.org/why-we-have-banned-default-exports-and-you-should-do-the-same-d51fdc2cf2ad) | 
 - [Так ли взаимозаменяемы программисты?](https://hackernoon.com/the-myth-of-the-interchangeable-developer-38d41aff563e) |
-
+- [Ситник о жизни и разработке](https://www.youtube.com/watch?v=jZmmQ87yFLE)
 ---
 ##### Тестирование
 - [Не Гермионной единой, скрещиваем Jest и Puppeteer](https://habrahabr.ru/company/ruvds/blog/342578/)
@@ -30,6 +29,7 @@
 - [и паттернам в нем](https://reacttraining.com/patterns/) |
 - [<></> in React 16.2](https://reactjs.org/blog/2017/11/28/react-v16.2.0-fragment-support.html) |
 - [Debugging React performance](https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad) |
+- [componentDidMount не нужен](https://www.youtube.com/watch?v=FXgPwnrgkhU&feature=youtu.be&t=43m24s) |
 
 ---
 ##### Всякое полезное
@@ -37,6 +37,7 @@
 - [Intersection Observer и ленивая загрузка картинок](https://calendar.perfplanet.com/2017/progressive-image-loading-using-intersection-observer-and-sqip/) |
 - [Популярные раскладки на гридах](https://medium.com/samsung-internet-dev/common-responsive-layouts-with-css-grid-and-some-without-245a862f48df) |
 - [Так ли хорошо вы знаете HTML5 формы](http://www.wdrfree.com/172/form-in-html5-definitely-guide-examples) | 
+- [AMP от Яндекса (Турбо-страницы)](https://yandex.ru/blog/company/turbo) | 
 
 ---?image=img/fonts.png&size=cover
 ---
@@ -54,8 +55,17 @@
 - [Как сверстать доступное письмо](https://css-tricks.com/html-email-accessibility/) |
 - [И вообще как верстать доступнее](https://24ways.org/2017/wcag-for-people-who-havent-read-them/)  |
 
----?image=img/cat.jpg
+---?image=img/cat.jpg&size=cover
 ---
 ##### Fun-end
 - [Если не успели на ДАМПе](https://typing.io/) |
 - [Новый фидонет](https://ipfs.io/) |
+- [Динозавр из Хрома в реальной жизни](https://medium.com/@urish/i-saw-a-dinosaur-or-how-i-built-a-real-life-version-of-chrome-t-rex-game-92175f6cad2c
+) |
+
+---?video=https://www.youtube.com/embed/OjaPpAnbbkI
+
+---
+##### Эвентс
+- [it-ekb-events](https://github.com/leominov/it-ekb-events/issues)
+- [Kyiv ReactJS Meetup](https://www.meetup.com/Kyiv-ReactJS-Meetup/events/244568518/)
