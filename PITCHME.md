@@ -38,7 +38,7 @@
 - [Популярные раскладки на гридах](https://medium.com/samsung-internet-dev/common-responsive-layouts-with-css-grid-and-some-without-245a862f48df) |
 - [Так ли хорошо вы знаете HTML5 формы](http://www.wdrfree.com/172/form-in-html5-definitely-guide-examples) | 
 - [AMP от Яндекса (Турбо-страницы)](https://yandex.ru/blog/company/turbo) | 
-- [it-ekb-events](https://github.com/leominov/it-ekb-events/issues)
+- [it-ekb-events](https://github.com/leominov/it-ekb-events/issues) |
 
 ---?image=img/fonts.png&size=cover
 ---
