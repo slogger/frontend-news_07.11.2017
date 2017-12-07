@@ -18,7 +18,7 @@
 - [WTF, HTML and CSS?](http://wtfhtmlcss.com/) | 
 - [Рассказ почему дефолтные экспорты зло](https://blog.neufund.org/why-we-have-banned-default-exports-and-you-should-do-the-same-d51fdc2cf2ad) | 
 - [Так ли взаимозаменяемы программисты?](https://hackernoon.com/the-myth-of-the-interchangeable-developer-38d41aff563e) |
-- [Ситник о жизни и разработке](https://www.youtube.com/watch?v=jZmmQ87yFLE)
+- [Ситник о жизни и разработке](https://www.youtube.com/watch?v=jZmmQ87yFLE) |
 ---
 ##### Тестирование
 - [Не Гермионной единой, скрещиваем Jest и Puppeteer](https://habrahabr.ru/company/ruvds/blog/342578/)
@@ -38,6 +38,7 @@
 - [Популярные раскладки на гридах](https://medium.com/samsung-internet-dev/common-responsive-layouts-with-css-grid-and-some-without-245a862f48df) |
 - [Так ли хорошо вы знаете HTML5 формы](http://www.wdrfree.com/172/form-in-html5-definitely-guide-examples) | 
 - [AMP от Яндекса (Турбо-страницы)](https://yandex.ru/blog/company/turbo) | 
+- [it-ekb-events](https://github.com/leominov/it-ekb-events/issues)
 
 ---?image=img/fonts.png&size=cover
 ---
@@ -60,12 +61,6 @@
 ##### Fun-end
 - [Если не успели на ДАМПе](https://typing.io/) |
 - [Новый фидонет](https://ipfs.io/) |
-- [Динозавр из Хрома в реальной жизни](https://medium.com/@urish/i-saw-a-dinosaur-or-how-i-built-a-real-life-version-of-chrome-t-rex-game-92175f6cad2c
-) |
+- [Динозавр из Хрома в реальной жизни](https://medium.com/@urish/i-saw-a-dinosaur-or-how-i-built-a-real-life-version-of-chrome-t-rex-game-92175f6cad2c) |
 
----?video=https://www.youtube.com/embed/OjaPpAnbbkI
-
----
-##### Эвентс
-- [it-ekb-events](https://github.com/leominov/it-ekb-events/issues)
-- [Kyiv ReactJS Meetup](https://www.meetup.com/Kyiv-ReactJS-Meetup/events/244568518/)
+---?image=img/dino.jpg&size=cover
