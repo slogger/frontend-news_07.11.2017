@@ -1,13 +1,10 @@
-@title[Introduction]
 ## Frontend Digest
-##### 7 Ноября
+##### 7 Декабря
 
----
-@title[Эта штука вообще работает?]
-## Новостные новости
 
----
 ##### Инструменты
+---?image=img/tools.jpg
+---
 - [What's New In DevTools (Chrome 64)](https://developers.google.com/web/updates/2017/11/devtools-release-notes) |
 - [New in Firefox 58: Developer Edition](https://hacks.mozilla.org/2017/11/new-in-firefox-58-developer-edition/) |
 - [reactopt](https://github.com/reactopt/reactopt) |
@@ -27,8 +24,8 @@
 
 ---
 ##### Ваш любимый React
-- [Роутерные ребята учат реакту](https://cdb.reacttraining.com/free-advanced-react-js-lectures-a9fdcad008f3) |
-- [Роутерные ребята учат паттернам в реакте](https://reacttraining.com/patterns/) |
+- [Роутерные ребята продвинуто учат реакту](https://cdb.reacttraining.com/free-advanced-react-js-lectures-a9fdcad008f3) |
+- [и паттернам в нем](https://reacttraining.com/patterns/) |
 - [<></> in React 16.2](https://reactjs.org/blog/2017/11/28/react-v16.2.0-fragment-support.html) |
 - [Debugging React performance](https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad) |
 
@@ -43,16 +40,19 @@
 ---
 ##### Шрифты
 - Гуру шрифтов [научит грузить их правильно](https://www.zachleat.com/web/23-minutes/) за 23 минуты
-- Текстовая версия [доклада про font-display](https://font-display.glitch.me/) |
-- или [видео](https://vimeo.com/241111413) |
+- [Текстовая версия доклада про font-display](https://font-display.glitch.me/) |
+- [или видео](https://vimeo.com/241111413) |
 - [Как в гугле рисовали кирилические версии популярных шрифтов Дизайн-процесс](https://design.google/library/scripting-cyrillic/) |
 
+---?image=img/hell.jpg
+## Новости из преисподни
 ---
-##### <strike>Ад</strike> Верстка писем
+##### Верстка писем
 - [normalize.email.css](https://github.com/dudeonthehorse/normalize.email.css)
 - [Как сверстать доступное письмо](https://css-tricks.com/html-email-accessibility/) |
 - [И вообще как верстать доступнее](https://24ways.org/2017/wcag-for-people-who-havent-read-them/)  |
 
+---?image=img/cat.jpg
 ---
 ##### Fun-end
 - [Если не успели на ДАМПе](https://typing.io/) |
