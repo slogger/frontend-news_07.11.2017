@@ -1,10 +1,12 @@
-## Frontend Digest
-##### 7 Декабря
+# Frontend Digest
+##### v17.7.12
 
 
-##### Инструменты
----?image=img/tools.jpg
+---?image=img/tools.jpg&size=cover
+## Инструменты
+
 ---
+##### Инструменты
 - [What's New In DevTools (Chrome 64)](https://developers.google.com/web/updates/2017/11/devtools-release-notes) |
 - [New in Firefox 58: Developer Edition](https://hacks.mozilla.org/2017/11/new-in-firefox-58-developer-edition/) |
 - [reactopt](https://github.com/reactopt/reactopt) |
@@ -36,15 +38,15 @@
 - [Популярные раскладки на гридах](https://medium.com/samsung-internet-dev/common-responsive-layouts-with-css-grid-and-some-without-245a862f48df) |
 - [Так ли хорошо вы знаете HTML5 формы](http://www.wdrfree.com/172/form-in-html5-definitely-guide-examples) | 
 
----?image=img/fonts.png
+---?image=img/fonts.png&size=cover
 ---
 ##### Шрифты
 - Гуру шрифтов [научит грузить их правильно](https://www.zachleat.com/web/23-minutes/) за 23 минуты
 - [Текстовая версия доклада про font-display](https://font-display.glitch.me/) |
 - [или видео](https://vimeo.com/241111413) |
-- [Как в гугле рисовали кирилические версии популярных шрифтов Дизайн-процесс](https://design.google/library/scripting-cyrillic/) |
+- [Как в гугле рисовали кирилические версии популярных шрифтов (дизайн-процесс)](https://design.google/library/scripting-cyrillic/) |
 
----?image=img/hell.jpg
+---?image=img/hell.jpg&size=cover
 ## Новости из преисподни
 ---
 ##### Верстка писем
